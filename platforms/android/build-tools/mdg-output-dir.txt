@@ -1,0 +1,1 @@
+/Users/flaviosampaio/Documents/sourceCodes/NativeScripts/ns-ng-shared/platforms/android/app/src/main/assets/metadata
